@@ -3,6 +3,11 @@
 //
 
 
+#include <iostream>
+
+using namespace std;
+
+
 
 long sumaEnteros(int n)
 {
@@ -23,9 +28,7 @@ long sumaEnteros(int n)
 
 
 
-#include <iostream>
 
-using namespace std;
 
 int main()
 {
