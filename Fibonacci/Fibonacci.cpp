@@ -9,9 +9,9 @@ using namespace std;
 
 long Fibonacci(int n)
 {
-    if ((n == 0) || (n == 1))
+    if (n == 0 || n == 1)
     {
-        return 1;
+        return n;
     }
 
     else
@@ -24,12 +24,6 @@ long Fibonacci(int n)
 
 
 
-
-
-
-
-
-
 int main()
 {
     int termino;
@@ -37,10 +31,15 @@ int main()
 
     cout << "Obtencion de terminos de la serie de Fibonacci"<<endl;
 
-    cout << "introduce el termino que quieres obtener :";
+    cout << "introduce el numero de terminos que quieres obtener :";
     cin >> termino;
 
-    cout << "El termino  " << termino << " de la serie de Fibonacci es " << Fibonacci(termino)<<endl;
+    for (int i = 0; i <= termino-1; i++)
+    {
+        cout << "El termino  " << i << " de la serie de Fibonacci es " << Fibonacci(i) << endl;
+    }
+
+
 
 
 

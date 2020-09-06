@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Recursividad", "Recursivida
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonacci", "Fibonacci\Fibonacci.vcxproj", "{8D3EA8BC-5DBE-4E89-A661-2C2B4C85311B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Factorial", "Factorial\Factorial.vcxproj", "{5BE40717-EC08-4F78-9D87-267B0285EA6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{8D3EA8BC-5DBE-4E89-A661-2C2B4C85311B}.Release|x64.Build.0 = Release|x64
 		{8D3EA8BC-5DBE-4E89-A661-2C2B4C85311B}.Release|x86.ActiveCfg = Release|Win32
 		{8D3EA8BC-5DBE-4E89-A661-2C2B4C85311B}.Release|x86.Build.0 = Release|Win32
+		{5BE40717-EC08-4F78-9D87-267B0285EA6C}.Debug|x64.ActiveCfg = Debug|x64
+		{5BE40717-EC08-4F78-9D87-267B0285EA6C}.Debug|x64.Build.0 = Debug|x64
+		{5BE40717-EC08-4F78-9D87-267B0285EA6C}.Debug|x86.ActiveCfg = Debug|Win32
+		{5BE40717-EC08-4F78-9D87-267B0285EA6C}.Debug|x86.Build.0 = Debug|Win32
+		{5BE40717-EC08-4F78-9D87-267B0285EA6C}.Release|x64.ActiveCfg = Release|x64
+		{5BE40717-EC08-4F78-9D87-267B0285EA6C}.Release|x64.Build.0 = Release|x64
+		{5BE40717-EC08-4F78-9D87-267B0285EA6C}.Release|x86.ActiveCfg = Release|Win32
+		{5BE40717-EC08-4F78-9D87-267B0285EA6C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

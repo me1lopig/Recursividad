@@ -37,7 +37,11 @@ int main()
     cout << "Introduce el numero hasta donde hacer la suma:";
     cin >> numero;
     
-    cout << "La suma de todos los numeros enteros hasta " << numero << " es: " << sumaEnteros(numero) << endl;
+
+
+    cout << "La suma de los enteros hasta   " << numero  << " es: " << sumaEnteros(numero) << endl;
+
+    
 
 
 
