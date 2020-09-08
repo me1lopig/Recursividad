@@ -31,12 +31,11 @@ void FuncionB(char letra)
 
 int main()
 {
+
     cout << "Ejemplo de recursividad "<<endl;
     cout << "Elementos del alfabeto " << endl;
-    FuncionA('Z');
+    FuncionA('A');
     cout << endl;
-
-
 
 
     cout << "\nPulsa una tecla para terminar " << endl;
