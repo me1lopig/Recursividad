@@ -1,4 +1,7 @@
-// MergeSort.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+// MergeSort.cpp : Ejemplo de ordenacion por mezclas
+
+
+
 //
 
 #include <iostream>
