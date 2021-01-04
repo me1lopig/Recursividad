@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BusquedaBinaria", "Busqueda
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MergeSort", "MergeSort\MergeSort.vcxproj", "{2201B523-6D70-4D1B-9E39-368C8EAB96A9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "saltoCaballo", "saltoCaballo\saltoCaballo.vcxproj", "{6B60EF52-2A7B-4A13-B247-47906D0CFE51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{2201B523-6D70-4D1B-9E39-368C8EAB96A9}.Release|x64.Build.0 = Release|x64
 		{2201B523-6D70-4D1B-9E39-368C8EAB96A9}.Release|x86.ActiveCfg = Release|Win32
 		{2201B523-6D70-4D1B-9E39-368C8EAB96A9}.Release|x86.Build.0 = Release|Win32
+		{6B60EF52-2A7B-4A13-B247-47906D0CFE51}.Debug|x64.ActiveCfg = Debug|x64
+		{6B60EF52-2A7B-4A13-B247-47906D0CFE51}.Debug|x64.Build.0 = Debug|x64
+		{6B60EF52-2A7B-4A13-B247-47906D0CFE51}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B60EF52-2A7B-4A13-B247-47906D0CFE51}.Debug|x86.Build.0 = Debug|Win32
+		{6B60EF52-2A7B-4A13-B247-47906D0CFE51}.Release|x64.ActiveCfg = Release|x64
+		{6B60EF52-2A7B-4A13-B247-47906D0CFE51}.Release|x64.Build.0 = Release|x64
+		{6B60EF52-2A7B-4A13-B247-47906D0CFE51}.Release|x86.ActiveCfg = Release|Win32
+		{6B60EF52-2A7B-4A13-B247-47906D0CFE51}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
