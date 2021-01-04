@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!\n";
+   
 
     cout << "Pulsa una tecla " << endl;
     cin.get();
